@@ -1,4 +1,3 @@
-
 package ui.screens
 
 import androidx.compose.foundation.background
@@ -31,7 +30,7 @@ fun LoginScreen(
 
     val fondo = Color(0xFF0B1020)
     val campo = Color(0xFF111B2E)
-    val azul = Color(0xFF2563EB)
+    val azul = Color(0xFF3F51B5)
     val textoSecundario = Color(0xFF9BAFCE)
 
     Column(

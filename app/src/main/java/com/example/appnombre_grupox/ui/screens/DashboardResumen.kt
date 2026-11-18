@@ -53,7 +53,7 @@ fun DashboardResumen(
             Box(modifier = Modifier.weight(1f)) {
                 TarjetaIndicador(
                     "VENTAS TOTALES",
-                    "$1.780.000",
+                    "$0",
                     verde
                 )
             }
